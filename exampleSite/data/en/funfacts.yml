@@ -1,0 +1,18 @@
+---
+funfacts:
+  enable: true
+  bg_image: "/images/297508_292264194214644_2056549456_n.jpg"
+  bg_image_webp: "/images/297508_292264194214644_2056549456_n.jpg"
+  counter_item:
+  - title: Happy Students
+    icon: ti-face-smile
+    count: "2562"
+  - title: Blue Belts Completed
+    icon: ti-archive
+    count: "23"
+  - title: Positive feedback
+    icon: ti-thumb-up
+    count: "2112"
+  - title: Tips
+    icon: ti-gift
+    count: "1231"

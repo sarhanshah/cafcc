@@ -1,0 +1,17 @@
+---
+team:
+  enable: true
+  title: THE BUZZSAW
+  team_member:
+  - name: Neil Shepard
+    image_webp: "/images/40042949_10160657481790562_8111810405883445248_n.jpg"
+    image: "/images/40042949_10160657481790562_8111810405883445248_n.jpg"
+    designation: CEO/Founder
+    content: coming soon
+    social:
+    - icon: ti-facebook
+      link: https://www.facebook.com/neil.sheppard.3
+    - icon: ti-link
+      link: https://linktr.ee/neilthebuzzsawsheppard
+    - icon: ti-instagram
+      link: https://www.instagram.com/coachbuzzsaw/?hl=en

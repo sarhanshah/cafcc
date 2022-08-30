@@ -1,0 +1,14 @@
+---
+about:
+  enable: true
+  title: FIGHT CLUB
+  about_item:
+  - icon: ti-notepad
+    title: LEARN
+    content: Learn MMA from the best coaches.
+  - icon: ti-cup
+    title: TRAIN
+    content: Train with the best students!
+  - icon: ti-thought
+    title: FIGHT
+    content: Spar with the best to practice and test your skill.

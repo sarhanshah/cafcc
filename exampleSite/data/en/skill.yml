@@ -1,0 +1,18 @@
+---
+skill:
+  enable: true
+  title: Our Skills
+  subtitle: We’re skilled in wide range of martial arts, coaching, and athletic development.
+  content: coming soon
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: Athletic Development
+    percent: 90%
+  - name: Analysis
+    percent: 70%
+  - name: Coaching
+    percent: 100%
+  - name: Training UFC fighters
+    percent: 95%
+  - name: Diet & Nutrition
+    percent: 75%

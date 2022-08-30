@@ -1,0 +1,43 @@
+---
+pricing:
+  enable: true
+  title: STUDENT MEMBERSHIPS
+  pricing_table:
+  - name: Free
+    price: "0"
+    unit: month
+    services:
+    - DISCORD GROUP
+    button:
+      label: Signup
+      link: "#"
+  - name: Silver
+    price: "$149"
+    unit: month
+    services:
+    - DISCORD GROUP
+    - THE DOJO
+    button:
+      label: Signup
+      link: "#"
+  - name: Gold
+    price: "$199"
+    unit: month
+    services:
+    - DISCORD GROUP
+    - THE DOJO
+    - FIGHT CLUB
+    button:
+      label: Signup
+      link: "#"
+  - name: Platinum
+    price: "$299"
+    unit: month
+    services:
+    - DISCORD GROUP
+    - THE DOJO
+    - FIGHT CLUB
+    - 1-1 Coaching by THE BUZZSAW
+    button:
+      label: Signup
+      link: "#"
